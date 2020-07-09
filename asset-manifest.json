@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/nova/static/css/main.d17525f0.chunk.css",
-    "main.js": "/nova/static/js/main.c45e2fa2.chunk.js",
-    "main.js.map": "/nova/static/js/main.c45e2fa2.chunk.js.map",
+    "main.css": "/nova/static/css/main.d99eb668.chunk.css",
+    "main.js": "/nova/static/js/main.24e83b39.chunk.js",
+    "main.js.map": "/nova/static/js/main.24e83b39.chunk.js.map",
     "runtime-main.js": "/nova/static/js/runtime-main.68cff4e5.js",
     "runtime-main.js.map": "/nova/static/js/runtime-main.68cff4e5.js.map",
-    "static/js/2.97589dfe.chunk.js": "/nova/static/js/2.97589dfe.chunk.js",
-    "static/js/2.97589dfe.chunk.js.map": "/nova/static/js/2.97589dfe.chunk.js.map",
+    "static/js/2.55274c04.chunk.js": "/nova/static/js/2.55274c04.chunk.js",
+    "static/js/2.55274c04.chunk.js.map": "/nova/static/js/2.55274c04.chunk.js.map",
     "index.html": "/nova/index.html",
-    "precache-manifest.8995a92744eabe79619db24240679a07.js": "/nova/precache-manifest.8995a92744eabe79619db24240679a07.js",
+    "precache-manifest.1a1814b6c1464c96dd030cab1167fcdd.js": "/nova/precache-manifest.1a1814b6c1464c96dd030cab1167fcdd.js",
     "service-worker.js": "/nova/service-worker.js",
-    "static/css/main.d17525f0.chunk.css.map": "/nova/static/css/main.d17525f0.chunk.css.map",
-    "static/js/2.97589dfe.chunk.js.LICENSE.txt": "/nova/static/js/2.97589dfe.chunk.js.LICENSE.txt"
+    "static/css/main.d99eb668.chunk.css.map": "/nova/static/css/main.d99eb668.chunk.css.map",
+    "static/js/2.55274c04.chunk.js.LICENSE.txt": "/nova/static/js/2.55274c04.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.68cff4e5.js",
-    "static/js/2.97589dfe.chunk.js",
-    "static/css/main.d17525f0.chunk.css",
-    "static/js/main.c45e2fa2.chunk.js"
+    "static/js/2.55274c04.chunk.js",
+    "static/css/main.d99eb668.chunk.css",
+    "static/js/main.24e83b39.chunk.js"
   ]
 }
